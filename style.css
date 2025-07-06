@@ -1,1 +1,15 @@
-nav
+.navber{
+    background-color: rgb(177, 93, 93);
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.logo a{
+    font-size: 35px;
+
+}
+.navdiv{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+    
+}
